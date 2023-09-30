@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "AlleleShift"]
+	path = AlleleShift
+	url = https://github.com/cran/AlleleShift
+[submodule "BiodiversityR"]
+	path = BiodiversityR
+	url = https://github.com/cran/BiodiversityR
+[submodule "RcmdrPlugin.WorldFlora"]
+	path = RcmdrPlugin.WorldFlora
+	url = https://github.com/cran/RcmdrPlugin.WorldFlora
+[submodule "WorldFlora"]
+	path = WorldFlora
+	url = https://github.com/cran/WorldFlora
+[submodule "maxlike"]
+	path = maxlike
+	url = https://github.com/cran/maxlike
